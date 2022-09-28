@@ -1,0 +1,4158 @@
+--------------------- 192.168.100.100 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645836
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20277
+- l2_current : 6735
+- l3_current : 6773
+- current_scale : 6768
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2290
+- l3n_voltage : 2310
+- voltage_scale : 2229
+- power_ac : -1
+- power_ac_scale : 4614
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4633
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294905921
+- energy_total_scale : 11259
+- current_dc : 0
+- current_dc_scale : 7439
+- voltage_dc : 65534
+- voltage_dc_scale : 6329
+- power_dc : -1
+- power_dc_scale : 4709
+- temperature : 558
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.147 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645928
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20480
+- l2_current : 6813
+- l3_current : 6848
+- current_scale : 6818
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2277
+- l3n_voltage : 2299
+- voltage_scale : 2210
+- power_ac : -1
+- power_ac_scale : 4637
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4632
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908221
+- energy_total_scale : -12266
+- current_dc : 0
+- current_dc_scale : 7219
+- voltage_dc : 65534
+- voltage_dc_scale : 6552
+- power_dc : -1
+- power_dc_scale : 4730
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.114 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645917
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20397
+- l2_current : 6780
+- l3_current : 6829
+- current_scale : 6787
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2273
+- l3n_voltage : 2316
+- voltage_scale : 2196
+- power_ac : -1
+- power_ac_scale : 4610
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4609
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908205
+- energy_total_scale : 17005
+- current_dc : 0
+- current_dc_scale : 7397
+- voltage_dc : 65534
+- voltage_dc_scale : 6358
+- power_dc : -1
+- power_dc_scale : 4703
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.152 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646078
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20561
+- l2_current : 6840
+- l3_current : 6885
+- current_scale : 6835
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2300
+- l3n_voltage : 2282
+- voltage_scale : 2225
+- power_ac : -1
+- power_ac_scale : 4662
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4663
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908257
+- energy_total_scale : 15121
+- current_dc : 0
+- current_dc_scale : 7317
+- voltage_dc : 65534
+- voltage_dc_scale : 6503
+- power_dc : -1
+- power_dc_scale : 4758
+- temperature : 560
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.117 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645920
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20095
+- l2_current : 6673
+- l3_current : 6736
+- current_scale : 6684
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2280
+- l3n_voltage : 2272
+- voltage_scale : 2218
+- power_ac : -1
+- power_ac_scale : 4540
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4539
+- power_reactive : 1
+- power_reactive_scale : -5
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908144
+- energy_total_scale : -341
+- current_dc : 0
+- current_dc_scale : 7483
+- voltage_dc : 65534
+- voltage_dc_scale : 6187
+- power_dc : -1
+- power_dc_scale : 4630
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.165 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645827
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20761
+- l2_current : 6905
+- l3_current : 6956
+- current_scale : 6899
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2280
+- l3n_voltage : 2304
+- voltage_scale : 2215
+- power_ac : -1
+- power_ac_scale : 4700
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4699
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908305
+- energy_total_scale : -8985
+- current_dc : 0
+- current_dc_scale : 7331
+- voltage_dc : 65534
+- voltage_dc_scale : 6543
+- power_dc : -1
+- power_dc_scale : 4797
+- temperature : 574
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.142 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645933
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20302
+- l2_current : 6755
+- l3_current : 6789
+- current_scale : 6757
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2257
+- l3n_voltage : 2293
+- voltage_scale : 2199
+- power_ac : -1
+- power_ac_scale : 4566
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4566
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908176
+- energy_total_scale : 31438
+- current_dc : 0
+- current_dc_scale : 7379
+- voltage_dc : 65534
+- voltage_dc_scale : 6316
+- power_dc : -1
+- power_dc_scale : 4661
+- temperature : 566
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.164 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645828
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20360
+- l2_current : 6780
+- l3_current : 6816
+- current_scale : 6763
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2280
+- l3n_voltage : 2304
+- voltage_scale : 2212
+- power_ac : -1
+- power_ac_scale : 4601
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4608
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908227
+- energy_total_scale : -9231
+- current_dc : 0
+- current_dc_scale : 7421
+- voltage_dc : 65534
+- voltage_dc_scale : 6316
+- power_dc : -1
+- power_dc_scale : 4688
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.112 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645915
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20241
+- l2_current : 6729
+- l3_current : 6780
+- current_scale : 6731
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2277
+- l3n_voltage : 2321
+- voltage_scale : 2201
+- power_ac : -1
+- power_ac_scale : 4584
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4585
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908133
+- energy_total_scale : 15592
+- current_dc : 0
+- current_dc_scale : 7474
+- voltage_dc : 65534
+- voltage_dc_scale : 6255
+- power_dc : -1
+- power_dc_scale : 4675
+- temperature : 554
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.150 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646080
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20903
+- l2_current : 6955
+- l3_current : 7003
+- current_scale : 6944
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2288
+- l3n_voltage : 2288
+- voltage_scale : 2226
+- power_ac : -1
+- power_ac_scale : 4737
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4746
+- power_reactive : 1
+- power_reactive_scale : -375
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908499
+- energy_total_scale : 27936
+- current_dc : 0
+- current_dc_scale : 7581
+- voltage_dc : 65534
+- voltage_dc_scale : 6375
+- power_dc : -1
+- power_dc_scale : 4833
+- temperature : 566
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.160 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646084
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20251
+- l2_current : 6749
+- l3_current : 6779
+- current_scale : 6722
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2279
+- l3n_voltage : 2322
+- voltage_scale : 2217
+- power_ac : -1
+- power_ac_scale : 4599
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4601
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908193
+- energy_total_scale : 4779
+- current_dc : 0
+- current_dc_scale : 7366
+- voltage_dc : 65534
+- voltage_dc_scale : 6373
+- power_dc : -1
+- power_dc_scale : 4695
+- temperature : 566
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.141 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645934
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20858
+- l2_current : 6930
+- l3_current : 6991
+- current_scale : 6935
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2262
+- l3n_voltage : 2295
+- voltage_scale : 2203
+- power_ac : -1
+- power_ac_scale : 4699
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4701
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908028
+- energy_total_scale : -16822
+- current_dc : 0
+- current_dc_scale : 7455
+- voltage_dc : 65534
+- voltage_dc_scale : 6432
+- power_dc : -1
+- power_dc_scale : 4795
+- temperature : 572
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.175 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645953
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20052
+- l2_current : 6676
+- l3_current : 6713
+- current_scale : 6662
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2317
+- voltage_scale : 2213
+- power_ac : -1
+- power_ac_scale : 4553
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4535
+- power_reactive : 1
+- power_reactive_scale : 3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908188
+- energy_total_scale : -2835
+- current_dc : 0
+- current_dc_scale : 7464
+- voltage_dc : 65534
+- voltage_dc_scale : 6224
+- power_dc : -1
+- power_dc_scale : 4646
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.166 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645826
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20591
+- l2_current : 6851
+- l3_current : 6896
+- current_scale : 6843
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2282
+- l3n_voltage : 2305
+- voltage_scale : 2217
+- power_ac : -1
+- power_ac_scale : 4667
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4667
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908235
+- energy_total_scale : 23123
+- current_dc : 0
+- current_dc_scale : 7450
+- voltage_dc : 65534
+- voltage_dc_scale : 6392
+- power_dc : -1
+- power_dc_scale : 4762
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.108 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645911
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20229
+- l2_current : 6721
+- l3_current : 6788
+- current_scale : 6719
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2298
+- l3n_voltage : 2295
+- voltage_scale : 2220
+- power_ac : -1
+- power_ac_scale : 4597
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4592
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907501
+- energy_total_scale : -11799
+- current_dc : 0
+- current_dc_scale : 7454
+- voltage_dc : 65534
+- voltage_dc_scale : 6288
+- power_dc : -1
+- power_dc_scale : 4687
+- temperature : 558
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.102 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645904
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20213
+- l2_current : 6765
+- l3_current : 6713
+- current_scale : 6735
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2308
+- l3n_voltage : 2288
+- voltage_scale : 2227
+- power_ac : -1
+- power_ac_scale : 4597
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4596
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908211
+- energy_total_scale : 20641
+- current_dc : 0
+- current_dc_scale : 7397
+- voltage_dc : 65534
+- voltage_dc_scale : 6340
+- power_dc : -1
+- power_dc_scale : 4690
+- temperature : 564
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.140 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645935
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 21840
+- l2_current : 7260
+- l3_current : 7301
+- current_scale : 7278
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2262
+- l3n_voltage : 2296
+- voltage_scale : 2203
+- power_ac : -1
+- power_ac_scale : 4550
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4919
+- power_reactive : 1
+- power_reactive_scale : -1870
+- power_factor : 1
+- power_factor_scale : 924
+- energy_total : 4294908082
+- energy_total_scale : -28394
+- current_dc : 0
+- current_dc_scale : 7319
+- voltage_dc : 65534
+- voltage_dc_scale : 6343
+- power_dc : -1
+- power_dc_scale : 4642
+- temperature : 586
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.101 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645905
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19968
+- l2_current : 6640
+- l3_current : 6678
+- current_scale : 6650
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2293
+- l3n_voltage : 2311
+- voltage_scale : 2230
+- power_ac : -1
+- power_ac_scale : 4547
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4545
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908139
+- energy_total_scale : 23869
+- current_dc : 0
+- current_dc_scale : 7386
+- voltage_dc : 65534
+- voltage_dc_scale : 6281
+- power_dc : -1
+- power_dc_scale : 4639
+- temperature : 563
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.118 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645921
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20249
+- l2_current : 6732
+- l3_current : 6768
+- current_scale : 6748
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2283
+- l3n_voltage : 2276
+- voltage_scale : 2225
+- power_ac : -1
+- power_ac_scale : 4578
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4581
+- power_reactive : 1
+- power_reactive_scale : -4
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908184
+- energy_total_scale : -14072
+- current_dc : 0
+- current_dc_scale : 7379
+- voltage_dc : 65534
+- voltage_dc_scale : 6330
+- power_dc : -1
+- power_dc_scale : 4671
+- temperature : 619
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.173 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645951
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19936
+- l2_current : 6635
+- l3_current : 6681
+- current_scale : 6620
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2309
+- l3n_voltage : 2307
+- voltage_scale : 2239
+- power_ac : -1
+- power_ac_scale : 4554
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4554
+- power_reactive : 1
+- power_reactive_scale : -2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908186
+- energy_total_scale : -24774
+- current_dc : 0
+- current_dc_scale : 7483
+- voltage_dc : 65534
+- voltage_dc_scale : 6210
+- power_dc : -1
+- power_dc_scale : 4647
+- temperature : 624
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.188 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646072
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20461
+- l2_current : 6804
+- l3_current : 6847
+- current_scale : 6809
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2291
+- l3n_voltage : 2287
+- voltage_scale : 2227
+- power_ac : -1
+- power_ac_scale : 4640
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4635
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908280
+- energy_total_scale : 6287
+- current_dc : 0
+- current_dc_scale : 7469
+- voltage_dc : 65534
+- voltage_dc_scale : 6335
+- power_dc : -1
+- power_dc_scale : 4732
+- temperature : 569
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.135 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645942
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20510
+- l2_current : 6819
+- l3_current : 6867
+- current_scale : 6822
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2272
+- l3n_voltage : 2291
+- voltage_scale : 2211
+- power_ac : -1
+- power_ac_scale : 4624
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4628
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907797
+- energy_total_scale : 19139
+- current_dc : 0
+- current_dc_scale : 7382
+- voltage_dc : 65534
+- voltage_dc_scale : 6401
+- power_dc : -1
+- power_dc_scale : 4726
+- temperature : 570
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.189 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646073
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20147
+- l2_current : 6702
+- l3_current : 6731
+- current_scale : 6712
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2287
+- l3n_voltage : 2286
+- voltage_scale : 2234
+- power_ac : -1
+- power_ac_scale : 4569
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4571
+- power_reactive : 1
+- power_reactive_scale : -6
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908207
+- energy_total_scale : -18747
+- current_dc : 0
+- current_dc_scale : 7396
+- voltage_dc : 65534
+- voltage_dc_scale : 6303
+- power_dc : -1
+- power_dc_scale : 4662
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.155 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645829
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20674
+- l2_current : 6880
+- l3_current : 6919
+- current_scale : 6874
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2280
+- l3n_voltage : 2309
+- voltage_scale : 2212
+- power_ac : -1
+- power_ac_scale : 4684
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      8P?    �- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4686
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908289
+- energy_total_scale : 23563
+- current_dc : 0
+- current_dc_scale : 7402
+- voltage_dc : 65534
+- voltage_dc_scale : 6459
+- power_dc : -1
+- power_dc_scale : 4781
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.109 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645912
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19857
+- l2_current : 6572
+- l3_current : 6677
+- current_scale : 6607
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2293
+- l3n_voltage : 2296
+- voltage_scale : 2221
+- power_ac : -1
+- power_ac_scale : 4503
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4507
+- power_reactive : 1
+- power_reactive_scale : 5
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908117
+- energy_total_scale : 18044
+- current_dc : 0
+- current_dc_scale : 7360
+- voltage_dc : 65534
+- voltage_dc_scale : 6248
+- power_dc : -1
+- power_dc_scale : 4599
+- temperature : 549
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.146 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 21826
+- l2_current : 7303
+- l3_current : 7263
+- current_scale : 7259
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2295
+- l3n_voltage : 2270
+- voltage_scale : 2205
+- power_ac : -1
+- power_ac_scale : 4554
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4926
+- power_reactive : 1
+- power_reactive_scale : -1879
+- power_factor : 1
+- power_factor_scale : 924
+- energy_total : 4294908099
+- energy_total_scale : 30104
+- current_dc : 0
+- current_dc_scale : 7375
+- voltage_dc : 65534
+- voltage_dc_scale : 6301
+- power_dc : -1
+- power_dc_scale : 4647
+- temperature : 590
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.131 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645946
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20948
+- l2_current : 6958
+- l3_current : 7010
+- current_scale : 6979
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2264
+- l3n_voltage : 2287
+- voltage_scale : 2205
+- power_ac : -1
+- power_ac_scale : 4716
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4714
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908346
+- energy_total_scale : 11157
+- current_dc : 0
+- current_dc_scale : 7552
+- voltage_dc : 65534
+- voltage_dc_scale : 6368
+- power_dc : -1
+- power_dc_scale : 4809
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.177 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20377
+- l2_current : 6742
+- l3_current : 6830
+- current_scale : 6804
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2281
+- l3n_voltage : 2316
+- voltage_scale : 2208
+- power_ac : -1
+- power_ac_scale : 4578
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4581
+- power_reactive : 1
+- power_reactive_scale : -12
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908179
+- energy_total_scale : -24665
+- current_dc : 0
+- current_dc_scale : 7309
+- voltage_dc : 65534
+- voltage_dc_scale : 6390
+- power_dc : -1
+- power_dc_scale : 4671
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.130 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V5.25
+- c_serialnumber : 50.0TL01645947
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20745
+- l2_current : 6895
+- l3_current : 6945
+- current_scale : 6904
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2267
+- l3n_voltage : 2290
+- voltage_scale : 2210
+- power_ac : -1
+- power_ac_scale : 4680
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4679
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908372
+- energy_total_scale : 6338
+- current_dc : 0
+- current_dc_scale : 7373
+- voltage_dc : 65534
+- voltage_dc_scale : 6475
+- power_dc : -1
+- power_dc_scale : 4775
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.170 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645948
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20334
+- l2_current : 6770
+- l3_current : 6809
+- current_scale : 6755
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2303
+- l3n_voltage : 2302
+- voltage_scale : 2234
+- power_ac : -1
+- power_ac_scale : 4634
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4631
+- power_reactive : 1
+- power_reactive_scale : 15
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908287
+- energy_total_scale : -32221
+- current_dc : 0
+- current_dc_scale : 7414
+- voltage_dc : 65534
+- voltage_dc_scale : 6377
+- power_dc : -1
+- power_dc_scale : 4728
+- temperature : 566
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.113 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645916
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19859
+- l2_current : 6592
+- l3_current : 6680
+- current_scale : 6586
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2271
+- l3n_voltage : 2318
+- voltage_scale : 2197
+- power_ac : -1
+- power_ac_scale : 4501
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4502
+- power_reactive : 1
+- power_reactive_scale : -12
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908079
+- energy_total_scale : -17757
+- current_dc : 0
+- current_dc_scale : 7289
+- voltage_dc : 65534
+- voltage_dc_scale : 6297
+- power_dc : -1
+- power_dc_scale : 4590
+- temperature : 555
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.172 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645950
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 21363
+- l2_current : 6797
+- l3_current : 7067
+- current_scale : 7497
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2303
+- l3n_voltage : 2300
+- voltage_scale : 2232
+- power_ac : -1
+ure_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.135 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645942
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20510
+- l2_current : 6819
+- l3_current : 6867
+- current_scale : 6822
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2272
+- l3n_voltage : 2291
+- voltage_scale : 2211
+- power_ac : -1
+- power_ac_scale : 4624
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4628
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907797
+- energy_total_scale : 19139
+- current_dc :- power_ac_scale : 4865
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4867
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908507
+- energy_total_scale : -15786
+- current_dc : 0
+- current_dc_scale : 7857
+- voltage_dc : 65534
+- voltage_dc_scale : 6316
+- power_dc : -1
+- power_dc_scale : 4963
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.122 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20482
+- l2_current : 6782
+- l3_current : 6875
+- current_scale : 6825
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2267
+- l3n_voltage : 2293
+- voltage_scale : 2201
+- power_ac : -1
+- power_ac_scale : 4617
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4614
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908253
+- energy_total_scale : -4417
+- current_dc : 0
+- current_dc_scale : 7343
+- voltage_dc : 65534
+- voltage_dc_scale : 6411
+- power_dc : -1
+- power_dc_scale : 4708
+- temperature : 563
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.174 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20301
+- l2_current : 6743
+- l3_current : 6795
+- current_scale : 6762
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2315
+- voltage_scale : 2210
+- power_ac : -1
+- power_ac_scale : 4605
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4604
+- power_reactive : 1
+- power_reactive_scale : -2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908256
+- energy_total_scale : 1934
+- current_dc : 0
+- current_dc_scale : 7393
+- voltage_dc : 65534
+- voltage_dc_scale : 6352
+- power_dc : -1
+- power_dc_scale : 4696
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.143 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20632
+- l2_current : 6860
+- l3_current : 6911
+- current_scale : 6860
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2264
+- l3n_voltage : 2293
+- voltage_scale : 2205
+- power_ac : -1
+- power_ac_scale : 4655
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4655
+- power_reactive : 1
+- power_reactive_scale : 2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908244
+- energy_total_scale : -12936
+- current_dc : 0
+- current_dc_scale : 7383
+- voltage_dc : 65534
+- voltage_dc_scale : 6433
+- power_dc : -1
+- power_dc_scale : 4749
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.132 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20838
+- l2_current : 6932
+- l3_current : 6975
+- current_scale : 6930
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2274
+- l3n_voltage : 2295
+- voltage_scale : 2215
+- power_ac : -1
+- power_ac_scale : 4710
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4712
+- power_reactive : 1
+- power_reactive_scale : 3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908266
+- energy_total_scale : 1943
+- current_dc : 0
+- current_dc_scale : 7385
+- voltage_dc : 65534
+- voltage_dc_scale : 6507
+- power_dc : -1
+- power_dc_scale : 4806
+- temperature : 566
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.115 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20166
+- l2_current : 6715
+- l3_current : 6749
+- current_scale : 6701
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2276
+- l3n_voltage : 2319
+- voltage_scale : 2203
+- power_ac : -1
+- power_ac_scale : 4568
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4569
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908143
+- energy_total_scale : 27090
+- current_dc : 0
+- current_dc_scale : 7368
+- voltage_dc : 65534
+- voltage_dc_scale : 6324
+- power_dc : -1
+- power_dc_scale : 4660
+- temperature : 575
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.116 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20479
+- l2_current : 6806
+- l3_current : 6858
+- current_scale : 6815
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2287
+- l3n_voltage : 2278
+- voltage_scale : 2224
+- power_ac : -1
+- power_ac_scale : 4641
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4628
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908233
+- energy_total_scale : 20624
+- current_dc : 0
+- current_dc_scale : 7538
+- voltage_dc : 65534
+- voltage_dc_scale : 6271
+- power_dc : -1
+- power_dc_scale : 4728
+- temperature : 564
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.138 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645937
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20562
+- l2_current : 6833
+- l3_current : 6891
+- current_scale : 6837
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2285
+- l3n_voltage : 2280
+- voltage_scale : 2214
+- power_ac : -1
+- power_ac_scale : 4644
+- frequency : 1
+- frequency_scale : -15591
+- power_apparent : -3
+- power_apparent_scale : 4643
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907930
+- energy_total_scale : -27956
+- current_dc : 0
+- current_dc_scale : 7473
+- voltage_dc : 65534
+- voltage_dc_scale : 6341
+- power_dc : -1
+- power_dc_scale : 4739
+- temperature : 573
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.180 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20776
+- l2_current : 6909
+- l3_current : 6959
+- current_scale : 6907
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2288
+- l3n_voltage : 2290
+- voltage_scale : 2224
+- power_ac : -1
+- power_ac_scale : 4710
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4715
+- power_reactive : 1
+- power_reactive_scale : 61
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908344
+- energy_total_scale : -10942
+- current_dc : 0
+- current_dc_scale : 7531
+- voltage_dc : 65534
+- voltage_dc_scale : 6381
+- power_dc : -1
+- power_dc_scale : 4806
+- temperature : 572
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.148 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645927
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 17777
+- l2_current : 5911
+- l3_current : 5952
+- current_scale : 5913
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2276
+- l3n_voltage : 2300
+- voltage_scale : 2209
+- power_ac : -1
+- power_ac_scale : 4017
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4025
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907421
+- energy_total_scale : 26137
+- current_dc : 0
+- current_dc_scale : 6446
+- voltage_dc : 65534
+- voltage_dc_scale : 6365
+- power_dc : -1
+- power_dc_scale : 4103
+- temperature : 522
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.187 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646071
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20135
+- l2_current : 6693
+- l3_current : 6746
+- current_scale : 6694
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2287
+- l3n_voltage : 2302
+- voltage_scale : 2229
+- power_ac : -1
+- power_ac_scale : 4574
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4576
+- power_reactive : 1
+- power_reactive_scale : 56
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908173
+- energy_total_scale : 14678
+- current_dc : 0
+- current_dc_scale : 7311
+- voltage_dc : 65534
+- voltage_dc_scale : 6386
+- power_dc : -1
+- power_dc_scale : 4669
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.111 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645914
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19883
+- l2_current : 6616
+- l3_current : 6649
+- current_scale : 6617
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2295
+- l3n_voltage : 2296
+- voltage_scale : 2221
+- power_ac : -1
+- power_ac_scale : 4512
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4527
+- power_reactive : 1
+- power_reactive_scale : -359
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908126
+- energy_total_scale : -3165
+- current_dc : 0
+- current_dc_scale : 7267
+- voltage_dc : 65534
+- voltage_dc_scale : 6337
+- power_dc : -1
+- power_dc_scale : 4605
+- temperature : 556
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.105 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645908
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19781
+- l2_current : 6572
+- l3_current : 6630
+- current_scale : 6577
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2281
+- l3n_voltage : 2306
+- voltage_scale : 2209
+- power_ac : -1
+- power_ac_scale : 4481
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4478
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908072
+- energy_total_scale : -24783
+- current_dc : 0
+- current_dc_scale : 7313
+- voltage_dc : 65534
+- voltage_dc_scale : 6249
+- power_dc : -1
+- power_dc_scale : 4570
+- temperature : 558
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.110 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645913
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20443
+- l2_current : 6802
+- l3_current : 6838
+- current_scale : 6802
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2296
+- l3n_voltage : 2291
+- voltage_scale : 2218
+- power_ac : -1
+- power_ac_scale : 4640
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4635
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908268
+- energy_total_scale : 566
+- current_dc : 0
+- current_dc_scale : 7507
+- voltage_dc : 65534
+- voltage_dc_scale : 6299
+- power_dc : -1
+- power_dc_scale : 4729
+- temperature : 559
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.176 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645954
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20567
+- l2_current : 6829
+- l3_current : 6893
+- current_scale : 6844
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2276
+- l3n_voltage : 2316
+- voltage_scale : 2205
+- power_ac : -1
+- power_ac_scale : 4659
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4659
+- power_reactive : 1
+- power_reactive_scale : -5
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908276
+- energy_total_scale : -18294
+- current_dc : 0
+- current_dc_scale : 7372
+- voltage_dc : 65534
+- voltage_dc_scale : 6447
+- power_dc : -1
+- power_dc_scale : 4753
+- temperature : 573
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.103 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 19769
+- l2_current : 6568
+- l3_current : 6609
+- current_scale : 6592
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2294
+- l3n_voltage : 2317
+- voltage_scale : 2234
+- power_ac : -1
+- power_ac_scale : 4508
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4510
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908071
+- energy_total_scale : -3123
+- current_dc : 0
+- current_dc_scale : 7348
+- voltage_dc : 65534
+- voltage_dc_scale : 6261
+- power_dc : -1
+- power_dc_scale : 4600
+- temperature : 554
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.171 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20188
+- l2_current : 6724
+- l3_current : 6756
+- current_scale : 6707
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2304
+- l3n_voltage : 2299
+- voltage_scale : 2237
+- power_ac : -1
+- power_ac_scale : 4600
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4601
+- power_reactive : 1
+- power_reactive_scale : -24
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908256
+- energy_total_scale : 4887
+- current_dc : 0
+- current_dc_scale : 7407
+- voltage_dc : 65534
+- voltage_dc_scale : 6337
+- power_dc : -1
+- power_dc_scale : 4694
+- temperature : 561
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.181 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20198
+- l2_current : 6723
+- l3_current : 6751
+- current_scale : 6722
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2296
+- l3n_voltage : 2297
+- voltage_scale : 2230
+- power_ac : -1
+- power_ac_scale : 4589
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4575
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908197
+- energy_total_scale : 12960
+- current_dc : 0
+- current_dc_scale : 7375
+- voltage_dc : 65534
+- voltage_dc_scale : 6353
+- power_dc : -1
+- power_dc_scale : 4686
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.159 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645832
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20648
+- l2_current : 6879
+- l3_current : 6908
+- current_scale : 6860
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2304
+- l3n_voltage : 2292
+- voltage_scale : 2227
+- power_ac : -1
+- power_ac_scale : 4690
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4696
+- power_reactive : 1
+- power_reactive_scale : 5
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908306
+- energy_total_scale : 10065
+- current_dc : 0
+- current_dc_scale : 7349
+- voltage_dc : 65534
+- voltage_dc_scale : 6518
+- power_dc : -1
+- power_dc_scale : 4790
+- temperature : 573
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.178 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645956
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20766
+- l2_current : 6906
+- l3_current : 6948
+- current_scale : 6911
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2291
+- l3n_voltage : 2293
+- voltage_scale : 2223
+- power_ac : -1
+- power_ac_scale : 4713
+- frequency : 1
+- frequency_scale : -15589
+- power_apparent : -3
+- power_apparent_scale : 4713
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908375
+- energy_total_scale : -16791
+- current_dc : 0
+- current_dc_scale : 7479
+- voltage_dc : 65534
+- voltage_dc_scale : 6431
+- power_dc : -1
+- power_dc_scale : 4810
+- temperature : 570
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.167 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645825
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20809
+- l2_current : 6919
+- l3_current : 6973
+- current_scale : 6915
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2282
+- l3n_voltage : 2306
+- voltage_scale : 2216
+- power_ac : -1
+- power_ac_scale : 4716
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4695
+- power_reactive : 1
+- power_reactive_scale : 2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908338
+- energy_total_scale : 18272
+- current_dc : 0
+- current_dc_scale : 7420
+- voltage_dc : 65534
+- voltage_dc_scale : 6487
+- power_dc : -1
+- power_dc_scale : 4814
+- temperature : 572
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.136 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 21790
+- l2_current : 7227
+- l3_current : 7297
+- current_scale : 7265
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2282
+- l3n_voltage : 2275
+- voltage_scale : 2207
+- power_ac : -1
+- power_ac_scale : 4542
+- frequency : 1
+- frequency_scale : -15588
+- power_apparent : -3
+- power_apparent_scale : 4908
+- power_reactive : 1
+- power_reactive_scale : -1860
+- power_factor : 1
+- power_factor_scale : 925
+- energy_total : 4294907682
+- energy_total_scale : -16391
+- current_dc : 0
+- current_dc_scale : 7290
+- voltage_dc : 65534
+- voltage_dc_scale : 6354
+- power_dc : -1
+- power_dc_scale : 4632
+- temperature : 584
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.162 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20417
+- l2_current : 6799
+- l3_current : 6842
+- current_scale : 6775
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2281
+- l3n_voltage : 2316
+- voltage_scale : 2205
+- power_ac : -1
+- power_ac_scale : 4628
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4628
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908248
+- energy_total_scale : 4367
+- current_dc : 0
+- current_dc_scale : 7435
+- voltage_dc : 65534
+- voltage_dc_scale : 6348
+- power_dc : -1
+- power_dc_scale : 4720
+- temperature : 564
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.120 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20484
+- l2_current : 6808
+- l3_current : 6859
+- current_scale : 6817
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2264
+- l3n_voltage : 2287
+- voltage_scale : 2202
+- power_ac : -1
+- power_ac_scale : 4626
+- frequency : 1
+- frequency_scale : -15585
+- power_apparent : -3
+- power_apparent_scale : 4624
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908242
+- energy_total_scale : -32165
+- current_dc : 0
+- current_dc_scale : 7331
+- voltage_dc : 65534
+- voltage_dc_scale : 6413
+- power_dc : -1
+- power_dc_scale : 4702
+- temperature : 555
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.161 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20722
+- l2_current : 6863
+- l3_current : 6949
+- current_scale : 6909
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2325
+- voltage_scale : 2211
+- power_ac : -1
+- power_ac_scale : 4709
+- frequency : 1
+- frequency_scale : -15585
+- power_apparent : -3
+- power_apparent_scale : 4706
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908268
+- energy_total_scale : 19261
+- current_dc : 0
+- current_dc_scale : 7440
+- voltage_dc : 65534
+- voltage_dc_scale : 6455
+- power_dc : -1
+- power_dc_scale : 4803
+- temperature : 573
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.168 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 18009
+- l2_current : 5988
+- l3_current : 6039
+- current_scale : 5980
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2282
+- l3n_voltage : 2300
+- voltage_scale : 2214
+- power_ac : -1
+- power_ac_scale : 4074
+- frequency : 1
+- frequency_scale : -15586
+- power_apparent : -3
+- power_apparent_scale : 4080
+- power_reactive : 1
+- power_reactive_scale : 5
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907488
+- energy_total_scale : -2638
+- current_dc : 0
+- current_dc_scale : 6564
+- voltage_dc : 65534
+- voltage_dc_scale : 6344
+- power_dc : -1
+- power_dc_scale : 4164
+- temperature : 529
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.182 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20639
+- l2_current : 6871
+- l3_current : 6908
+- current_scale : 6860
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2289
+- l3n_voltage : 2333
+- voltage_scale : 2206
+- power_ac : -1
+- power_ac_scale : 4693
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4696
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908183
+- energy_total_scale : -28542
+- current_dc : 0
+- current_dc_scale : 7461
+- voltage_dc : 65534
+- voltage_dc_scale : 6421
+- power_dc : -1
+- power_dc_scale : 4791
+- temperature : 574
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.107 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 19740
+- l2_current : 6553
+- l3_current : 6611
+- current_scale : 6575
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2285
+- l3n_voltage : 2306
+- voltage_scale : 2216
+- power_ac : -1
+- power_ac_scale : 4479
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4480
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908086
+- energy_total_scale : 3980
+- current_dc : 0
+- current_dc_scale : 7321
+- voltage_dc : 65534
+- voltage_dc_scale : 6243
+- power_dc : -1
+- power_dc_scale : 4571
+- temperature : 559
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.121 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20053
+- l2_current : 6674
+- l3_current : 6711
+- current_scale : 6667
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2266
+- l3n_voltage : 2285
+- voltage_scale : 2202
+- power_ac : -1
+- power_ac_scale : 4513
+- frequency : 1
+- frequency_scale : -15585
+- power_apparent : -3
+- power_apparent_scale : 4512
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908127
+- energy_total_scale : -21575
+- current_dc : 0
+- current_dc_scale : 7270
+- voltage_dc : 65534
+- voltage_dc_scale : 6331
+- power_dc : -1
+- power_dc_scale : 4603
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.145 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20655
+- l2_current : 6842
+- l3_current : 6936
+- current_scale : 6876
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2268
+- l3n_voltage : 2293
+- voltage_scale : 2204
+- power_ac : -1
+- power_ac_scale : 4652
+- frequency : 1
+- frequency_scale : -15585
+- power_apparent : -3
+- power_apparent_scale : 4655
+- power_reactive : 1
+- power_reactive_scale : 167
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908244
+- energy_total_scale : -14234
+- current_dc : 0
+- current_dc_scale : 7342
+- voltage_dc : 65534
+- voltage_dc_scale : 6464
+- power_dc : -1
+- power_dc_scale : 4746
+- temperature : 569
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.119 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645922
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19924
+- l2_current : 6663
+- l3_current : 6626
+- current_scale : 6634
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2277
+- l3n_voltage : 2280
+- voltage_scale : 2214
+- power_ac : -1
+- power_ac_scale : 4494
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4495
+- power_reactive : 1
+- power_reactive_scale : 3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908097
+- energy_total_scale : -7579
+- current_dc : 0
+- current_dc_scale : 7271
+- voltage_dc : 65534
+- voltage_dc_scale : 6305
+- power_dc : -1
+- power_dc_scale : 4584
+- temperature : 556
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.179 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20127
+- l2_current : 6698
+- l3_current : 6736
+- current_scale : 6692
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2294
+- l3n_voltage : 2299
+- voltage_scale : 2232
+- power_ac : -1
+- power_ac_scale : 4576
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4578
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908210
+- energy_total_scale : -5220
+- current_dc : 0
+- current_dc_scale : 7369
+- voltage_dc : 65534
+- voltage_dc_scale : 6340
+- power_dc : -1
+- power_dc_scale : 4672
+- temperature : 568
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.106 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20215
+- l2_current : 6711
+- l3_current : 6787
+- current_scale : 6717
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2286
+- l3n_voltage : 2311
+- voltage_scale : 2216
+- power_ac : -1
+- power_ac_scale : 4587
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4592
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908155
+- energy_total_scale : -15053
+- current_dc : 0
+- current_dc_scale : 7278
+- voltage_dc : 65534
+- voltage_dc_scale : 6432
+- power_dc : -1
+- power_dc_scale : 4682
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.137 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20800
+- l2_current : 6886
+- l3_current : 6990
+- current_scale : 6922
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2287
+- l3n_voltage : 2284
+- voltage_scale : 2222
+- power_ac : -1
+- power_ac_scale : 4708
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4709
+- power_reactive : 1
+- power_reactive_scale : 133
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907932
+- energy_total_scale : 9666
+- current_dc : 0
+- current_dc_scale : 7392
+- voltage_dc : 65534
+- voltage_dc_scale : 6498
+- power_dc : -1
+- power_dc_scale : 4803
+- temperature : 573
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.123 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20159
+- l2_current : 6697
+- l3_current : 6747
+- current_scale : 6713
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2275
+- l3n_voltage : 2292
+- voltage_scale : 2208
+- power_ac : -1
+- power_ac_scale : 4546
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4538
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908207
+- energy_total_scale : 30289
+- current_dc : 0
+- current_dc_scale : 7449
+- voltage_dc : 65534
+- voltage_dc_scale : 6228
+- power_dc : -1
+- power_dc_scale : 4639
+- temperature : 559
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.156 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20347
+- l2_current : 6770
+- l3_current : 6807
+- current_scale : 6769
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2294
+- l3n_voltage : 2283
+- voltage_scale : 2221
+- power_ac : -1
+- power_ac_scale : 4611
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4610
+- power_reactive : 1
+- power_reactive_scale : -4
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908266
+- energy_total_scale : 30757
+- current_dc : 0
+- current_dc_scale : 7411
+- voltage_dc : 65534
+- voltage_dc_scale : 6347
+- power_dc : -1
+- power_dc_scale : 4704
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.158 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20510
+- l2_current : 6820
+- l3_current : 6863
+- current_scale : 6826
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2297
+- l3n_voltage : 2289
+- voltage_scale : 2232
+- power_ac : -1
+- power_ac_scale : 4659
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4659
+- power_reactive : 1
+- power_reactive_scale : 8
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908282
+- energy_total_scale : 24328
+- current_dc : 0
+- current_dc_scale : 7481
+- voltage_dc : 65534
+- voltage_dc_scale : 6352
+- power_dc : -1
+- power_dc_scale : 4752
+- temperature : 569
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.151 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20894
+- l2_current : 6960
+- l3_current : 7000
+- current_scale : 6932
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2307
+- l3n_voltage : 2295
+- voltage_scale : 2230
+- power_ac : -1
+- power_ac_scale : 4756
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4757
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908422
+- energy_total_scale : 32643
+- current_dc : 0
+- current_dc_scale : 7508
+- voltage_dc : 65534
+- voltage_dc_scale : 6467
+- power_dc : -1
+- power_dc_scale : 4856
+- temperature : 569
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.184 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20515
+- l2_current : 6840
+- l3_current : 6887
+- current_scale : 6788
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2274
+- l3n_voltage : 2316
+- voltage_scale : 2197
+- power_ac : -1
+- power_ac_scale : 4650
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4649
+- power_reactive : 1
+- power_reactive_scale : -12
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908224
+- energy_total_scale : 23253
+- current_dc : 0
+- current_dc_scale : 7368
+- voltage_dc : 65534
+- voltage_dc_scale : 6432
+- power_dc : -1
+- power_dc_scale : 4739
+- temperature : 570
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.163 ----------------------------------------- 192.168.100.139 --------------------- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645936
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20647
+- l2_current : 6836
+- l3_current : 6931
+- current_scale : 6880
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2290
+- l3n_voltage : 2287
+- voltage_scale : 2222
+- power_ac : -1
+- power_ac_scale : 4678
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4704
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908247
+- energy_total_scale : 10338
+- current_dc : 0
+- current_dc_scale : 7410
+- voltage_dc : 65534
+- voltage_dc_scale : 6446
+- power_dc : -1
+- power_dc_scale : 4777
+- temperature : 572
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.153 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20336
+- l2_current : 6753
+- l3_current : 6822
+- current_scale : 6759
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2278
+- l3n_voltage : 2312
+- voltage_scale : 2213
+- power_ac : -1
+- power_ac_scale : 4610
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4615
+- power_reactive : 1
+- power_reactive_scale : -2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908237
+- energy_total_scale : 10897
+- current_dc : 0
+- current_dc_scale : 7312
+- voltage_dc : 65534
+- voltage_dc_scale : 6434
+- power_dc : -1
+- power_dc_scale : 4705
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.185 ----------------------------------------- 192.168.100.133 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20464
+- l2_current : 6812
+- l3_current : 6838
+- current_scale : 6813
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2270
+- l3n_voltage : 2291
+- voltage_scale : 2211
+- power_ac : -1
+- power_ac_scale : 4624
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4616
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907863
+- energy_total_scale : -23219
+- current_dc : 0
+- current_dc_scale : 7413
+- voltage_dc : 65534
+- voltage_dc_scale : 6357
+- power_dc : -1
+- power_dc_scale : 4713
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.186 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20685
+- l2_current : 6859
+- l3_current : 6930
+- current_scale : 6894
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2287
+- voltage_scale : 2230
+- power_ac : -1
+- power_ac_scale : 4685
+- frequency : 1
+- frequency_scale : -15580
+- power_apparent : -3
+- power_apparent_scale : 4687
+- power_reactive : 1
+- power_reactive_scale : -3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908321
+- energy_total_scale : 4379
+- current_dc : 0
+- current_dc_scale : 7341
+- voltage_dc : 65534
+- voltage_dc_scale : 6513
+- power_dc : -1
+- power_dc_scale : 4781
+- temperature : 570
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.154 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20147
+- l2_current : 6696
+- l3_current : 6738
+- current_scale : 6712
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2281
+- l3n_voltage : 2307
+- voltage_scale : 2213
+- power_ac : -1
+- power_ac_scale : 4563
+- frequency : 1
+- frequency_scale : -15582
+- power_apparent : -3
+- power_apparent_scale : 4567
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908201
+- energy_total_scale : -2054
+- current_dc : 0
+- current_dc_scale : 7463
+- voltage_dc : 65534
+- voltage_dc_scale : 6246
+- power_dc : -1
+- power_dc_scale : 4661
+- temperature : 559
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.144 --------------------- c_sunspec_did : 0
+- current : 50
+- l1_current : 20423
+- l2_current : 6797
+- l3_current : 6839
+- current_scale : 6785
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2271
+- l3n_voltage : 2294
+- voltage_scale : 2207
+- power_ac : -1
+- power_ac_scale : 4607
+- frequency : 1
+- frequency_scale : -15583
+- power_apparent : -3
+- power_apparent_scale : 4614
+- power_reactive : 1
+- power_reactive_scale : 10
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907961
+- energy_total_scale : 9993
+- current_dc : 0
+- current_dc_scale : 7367
+- voltage_dc : 65534
+- voltage_dc_scale : 6386
+- power_dc : -1
+- power_dc_scale : 4704
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.104 ----------------------------------------- 192.168.100.125 ----------------------------------------- 192.168.100.127 ----------------------------------------- 192.168.100.129 ----------------------------------------- 192.168.100.169 ----------------------------------------- 192.168.100.126 ----------------------------------------- 192.168.100.128 ----------------------------------------- 192.168.100.124 ----------------------------------------- 192.168.100.149 ----------------------------------------- 192.168.100.132 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645945
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20250
+- l2_current : 6747
+- l3_current : 6771
+- current_scale : 6731
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2283
+- l3n_voltage : 2303
+- voltage_scale : 2226
+- power_ac : -1
+- power_ac_scale : 4598
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4604
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908266
+- energy_total_scale : 13233
+- current_dc : 0
+- current_dc_scale : 7242
+- voltage_dc : 65534
+- voltage_dc_scale : 6479
+- power_dc : -1
+- power_dc_scale : 4692
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.121 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645924
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19514
+- l2_current : 6477
+- l3_current : 6541
+- current_scale : 6494
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2278
+- l3n_voltage : 2298
+- voltage_scale : 2218
+- power_ac : -1
+- power_ac_scale : 4417
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4417
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908127
+- energy_total_scale : -10798
+- current_dc : 0
+- current_dc_scale : 7140
+- voltage_dc : 65534
+- voltage_dc_scale : 6314
+- power_dc : -1
+- power_dc_scale : 4508
+- temperature : 563
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.119 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645922
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19366
+- l2_current : 6486
+- l3_current : 6442
+- current_scale : 6436
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2289
+- l3n_voltage : 2292
+- voltage_scale : 2229
+- power_ac : -1
+- power_ac_scale : 4397
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4394
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908098
+- energy_total_scale : 3148
+- current_dc : 0
+- current_dc_scale : 7155
+- voltage_dc : 65534
+- voltage_dc_scale : 6262
+- power_dc : -1
+- power_dc_scale : 4481
+- temperature : 552
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.120 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645923
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19953
+- l2_current : 6620
+- l3_current : 6688
+- current_scale : 6645
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2273
+- l3n_voltage : 2296
+- voltage_scale : 2215
+- power_ac : -1
+- power_ac_scale : 4511
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4509
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908242
+- energy_total_scale : -21113
+- current_dc : 0
+- current_dc_scale : 7382
+- voltage_dc : 65534
+- voltage_dc_scale : 6240
+- power_dc : -1
+- power_dc_scale : 4606
+- temperature : 551
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.155 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20184
+- l2_current : 6697
+- l3_current : 6766
+- current_scale : 6720
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2283
+- l3n_voltage : 2314
+- voltage_scale : 2219
+- power_ac : -1
+- power_ac_scale : 4587
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4585
+- power_reactive : 1
+- power_reactive_scale : 8
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908289
+- energy_total_scale : -30714
+- current_dc : 0
+- current_dc_scale : 7270
+- voltage_dc : 65534
+- voltage_dc_scale : 6436
+- power_dc : -1
+- power_dc_scale : 4679
+- temperature : 563
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.117 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19558
+- l2_current : 6477
+- l3_current : 6556
+- current_scale : 6523
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2291
+- l3n_voltage : 2286
+- voltage_scale : 2232
+- power_ac : -1
+- power_ac_scale : 4435
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4438
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908145
+- energy_total_scale : 10506
+- current_dc : 0
+- current_dc_scale : 7191
+- voltage_dc : 65534
+- voltage_dc_scale : 6299
+- power_dc : -1
+- power_dc_scale : 4530
+- temperature : 560
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.133 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645944
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19901
+- l2_current : 6624
+- l3_current : 6659
+- current_scale : 6617
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2277
+- l3n_voltage : 2298
+- voltage_scale : 2222
+- power_ac : -1
+- power_ac_scale : 4508
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4514
+- power_reactive : 1
+- power_reactive_scale : 122
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907863
+- energy_total_scale : -12162
+- current_dc : 0
+- current_dc_scale : 7242
+- voltage_dc : 65534
+- voltage_dc_scale : 6353
+- power_dc : -1
+- power_dc_scale : 4601
+- temperature : 556
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.104 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645907
+- c_deviceaddress : 0
+--------------------- 192.168.100.186 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20027
+- l2_current : 6671
+- l3_current : 6695
+- current_scale : 6660
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2295
+- l3n_voltage : 2294
+- voltage_scale : 2238
+- power_ac : -1
+- power_ac_scale : 4558
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4557
+- power_reactive : 1
+- power_reactive_scale : 47
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908321
+- energy_total_scale : 15543
+- current_dc : 0
+- current_dc_scale : 7315
+- voltage_dc : 65534
+- voltage_dc_scale : 6355
+- power_dc : -1
+- power_dc_scale : 4649
+- temperature : 560
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.101 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19521
+- l2_current : 6498
+- l3_current : 6527
+- current_scale : 6495
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2296
+- l3n_voltage : 2314
+- voltage_scale : 2235
+- power_ac : -1
+- power_ac_scale : 4452
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4438
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908139
+- energy_total_scale : -30814
+- current_dc : 0
+- current_dc_scale : 7191
+- voltage_dc : 65534
+- voltage_dc_scale : 6317
+- power_dc : -1
+- power_dc_scale : 4543
+- temperature : 563
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.102 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645904
+- c_deviceaddress : 0
+--------------------- 192.168.100.100 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645836
+- c_deviceaddress : 0
+--------------------- 192.168.100.135 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645942
+- c_deviceaddress : 0
+--------------------- 192.168.100.110 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645913
+- c_deviceaddress : 0
+--------------------- 192.168.100.150 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20326
+- l2_current : 6775
+- l3_current : 6800
+- current_scale : 6751
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2302
+- l3n_voltage : 2302
+- voltage_scale : 2245
+- power_ac : -1
+- power_ac_scale : 4638
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4638
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908499
+- energy_total_scale : -26195
+- current_dc : 0
+- current_dc_scale : 7464
+- voltage_dc : 65534
+- voltage_dc_scale : 6348
+- power_dc : -1
+- power_dc_scale : 4738
+- temperature : 560
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.163 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20141
+- l2_current : 6681
+- l3_current : 6763
+- current_scale : 6696
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2285
+- l3n_voltage : 2340
+- voltage_scale : 2234
+- power_ac : -1
+- power_ac_scale : 4600
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4598
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908227
+- energy_total_scale : -3851
+- current_dc : 0
+- current_dc_scale : 7300
+- voltage_dc : 65534
+- voltage_dc_scale : 6425
+- power_dc : -1
+- power_dc_scale : 4691
+- temperature : 564
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.151 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20366
+- l2_current : 6795
+- l3_current : 6815
+- current_scale : 6755
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2315
+- l3n_voltage : 2303
+- voltage_scale : 2239
+- power_ac : -1
+- power_ac_scale : 4653
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4630
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908422
+- energy_total_scale : -21511
+- current_dc : 0
+- current_dc_scale : 7300
+- voltage_dc : 65534
+- voltage_dc_scale : 6506
+- power_dc : -1
+- power_dc_scale : 4749
+- temperature : 565
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.140 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 21169
+- l2_current : 7027
+- l3_current : 7093
+- current_scale : 7048
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2268
+- l3n_voltage : 2301
+- voltage_scale : 2212
+- power_ac : -1
+- power_ac_scale : 4442
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4781
+- power_reactive : 1
+- power_reactive_scale : -1769
+- power_factor : 1
+- power_factor_scale : 929
+- energy_total : 4294908082
+- energy_total_scale : -17474
+- current_dc : 0
+- current_dc_scale : 7100
+- voltage_dc : 65534
+- voltage_dc_scale : 6385
+- power_dc : -1
+- power_dc_scale : 4533
+- temperature : 583
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.159 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20148
+- l2_current : 6717
+- l3_current : 6735
+- current_scale : 6695
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2306
+- l3n_voltage : 2295
+- voltage_scale : 2231
+- power_ac : -1
+- power_ac_scale : 4587
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4588
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908306
+- energy_total_scale : 21344
+- current_dc : 0
+- current_dc_scale : 7288
+- voltage_dc : 65534
+- voltage_dc_scale : 6420
+- power_dc : -1
+- power_dc_scale : 4679
+- temperature : 567
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.168 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 17504
+- l2_current : 5799
+- l3_current : 5881
+- current_scale : 5823
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2293
+- l3n_voltage : 2316
+- voltage_scale : 2231
+- power_ac : -1
+- power_ac_scale : 3991
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4008
+- power_reactive : 1
+- power_reactive_scale : -3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907489
+- energy_total_scale : 7155
+- current_dc : 0
+- current_dc_scale : 6394
+- voltage_dc : 65534
+- voltage_dc_scale : 6367
+- power_dc : -1
+- power_dc_scale : 4071
+ l2_current : 6624
+- l3_current : 6659
+- current_scale : 6617
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2277
+- l3n_voltage : 2298
+- voltage_scale : 2222
+- power_ac : -1
+- power_ac_scale : 4508
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4514
+- power_reactive : 1
+- power_reactive_scale : 122
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294907863
+- energy_total_scale : -12162
+- current_dc : 0
+- current_dc_scale : 7242
+- voltage_dc : 65534
+- voltage_dc_scale : 6353
+- power_dc : -1
+- power_dc_scale : 4601
+- temperature : 556
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.104 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645907
+- c_deviceaddress : 0
+--------------------- 192.168.100.186 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20027
+- l2_current : 6671
+- l3_current : 6695
+- current_scale : 6660
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2295
+- l3n_voltage : 2294
+- voltage_scale : 2238
+- power_ac : -1
+- power_ac_scale : 4558
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4557
+- power_reactive : 1
+- power_reactive_scale : 47
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908321
+- energy_total_scale : 15543
+- current_dc : 0
+- current_dc_scale : 7315
+- voltage_dc : 65534
+- voltage_dc_scale : 6355
+- power_dc : -1
+- power_dc_scale : 4649
+- temperature : 560
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.101 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19521
+- l2_current : 6498
+- l3_current : 6527
+- current_scale : 6495
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2296
+- l3n_voltage : 2314
+- voltage_scale : 2235
+- power_ac : -1
+- power_ac_scale : 4452
+- frequency : 1
+- frequency_scale : -15697
+- power_apparent : -3
+- power_apparent_scale : 4438
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908139
+- energy_total_scale : -30814
+- current_dc : 0
+- current_dc_scale : 7191
+- voltage_dc : 65534
+- voltage_dc_scale : 6317
+-         : -1
+            - temperature : 523
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.109 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19296
+- l2_current : 6413
+- l3_current : 6476
+- current_scale : 6406
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2302
+- l3n_voltage : 2303
+- voltage_scale : 2230
+- power_ac : -1
+- power_ac_scale : 4412
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4409
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908117
+- energy_total_scale : 28821
+- current_dc : 0
+- current_dc_scale : 7148
+- voltage_dc : 65534
+- voltage_dc_scale : 6297
+- power_dc : -1
+- power_dc_scale : 4501
+- temperature : 555
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.116 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19936
+- l2_current : 6615
+- l3_current : 6680
+- current_scale : 6640
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2292
+- l3n_voltage : 2286
+- voltage_scale : 2233
+- power_ac : -1
+- power_ac_scale : 4518
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4522
+- power_reactive : 1
+- power_reactive_scale : -3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908233
+- energy_total_scale : 31707
+- current_dc : 0
+- current_dc_scale : 7306
+- voltage_dc : 65534
+- voltage_dc_scale : 6318
+- power_dc : -1
+- power_dc_scale : 4616
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.182 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19975
+- l2_current : 6658
+- l3_current : 6678
+- current_scale : 6638
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2297
+- l3n_voltage : 2339
+- voltage_scale : 2216
+- power_ac : -1
+- power_ac_scale : 4556
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4561
+- power_reactive : 1
+- power_reactive_scale : -3
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908183
+- energy_total_scale : -17335
+- current_dc : 0
+- current_dc_scale : 7283
+- voltage_dc : 65534
+- voltage_dc_scale : 6389
+- power_dc : -1
+- power_dc_scale : 4653
+- temperature : 562
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.154 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19763
+- l2_current : 6578
+- l3_current : 6601
+- current_scale : 6583
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2312
+- voltage_scale : 2219
+- power_ac : -1
+- power_ac_scale : 4466
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4463
+- power_reactive : 1
+- power_reactive_scale : 1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908202
+- energy_total_scale : 8887
+- current_dc : 0
+- current_dc_scale : 7205
+- voltage_dc : 65534
+- voltage_dc_scale : 6322
+- power_dc : -1
+- power_dc_scale : 4555
+- temperature : 554
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.152 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 20019
+- l2_current : 6669
+- l3_current : 6698
+- current_scale : 6652
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2314
+- l3n_voltage : 2295
+- voltage_scale : 2242
+- power_ac : -1
+- power_ac_scale : 4576
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4576
+- power_reactive : 1
+- power_reactive_scale : 0
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908257
+- energy_total_scale : 26375
+- current_dc : 0
+- current_dc_scale : 7356
+- voltage_dc : 65534
+- voltage_dc_scale : 6341
+- power_dc : -1
+- power_dc_scale : 4664
+- temperature : 557
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.153 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19863
+- l2_current : 6603
+- l3_current : 6661
+- current_scale : 6599
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2284
+- l3n_voltage : 2314
+- voltage_scale : 2219
+- power_ac : -1
+- power_ac_scale : 4513
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4513
+- power_reactive : 1
+- power_reactive_scale : -2
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908237
+- energy_total_scale : 21947
+- current_dc : 0
+- current_dc_scale : 7254
+- voltage_dc : 65534
+- voltage_dc_scale : 6350
+- power_dc : -1
+- power_dc_scale : 4607
+- temperature : 557
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.103 --------------------
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19334
+- l2_current : 6408
+- l3_current : 6472
+- current_scale : 6453
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2299
+- l3n_voltage : 2322
+- voltage_scale : 2241
+- power_ac : -1
+- power_ac_scale : 4419
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4423
+- power_reactive : 1
+- power_reactive_scale : 155
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908072
+- energy_total_scale : 7640
+- current_dc : 0
+- current_dc_scale : 7170
+- voltage_dc : 65534
+- voltage_dc_scale : 6290
+- power_dc : -1
+- power_dc_scale : 4510
+- temperature : 553
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.114 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645917
+- c_deviceaddress : 0
+- c_sunspec_did : 0
+- current : 50
+- l1_current : 19815
+- l2_current : 6595
+- l3_current : 6623
+- current_scale : 6596
+- l1_voltage : 65534
+- l2_voltage : 0
+- l3_voltage : 0
+- l1n_voltage : 0
+- l2n_voltage : 2280
+- l3n_voltage : 2323
+- voltage_scale : 2208
+- power_ac : -1
+- power_ac_scale : 4497
+- frequency : 1
+- frequency_scale : -15696
+- power_apparent : -3
+- power_apparent_scale : 4497
+- power_reactive : 1
+- power_reactive_scale : -1
+- power_factor : 1
+- power_factor_scale : 1000
+- energy_total : 4294908205
+- energy_total_scale : 28044
+- current_dc : 0
+- current_dc_scale : 7244
+- voltage_dc : 65534
+- voltage_dc_scale : 6337
+- power_dc : -1
+- power_dc_scale : 4590
+- temperature : 561
+- temperature_scale : -32768
+- status : 0
+- vendor_status : 4
+--------------------- 192.168.100.162 --------------------
+--------------------- 192.168.100.105 --------------------
+--------------------- 192.168.100.115 --------------------
+--------------------- 192.168.100.136 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645941
+- c_deviceaddress : 0
+--------------------- 192.168.100.165 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645827
+- c_deviceaddress : 0
+--------------------- 192.168.100.161 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01646083
+- c_deviceaddress : 0
+--------------------- 192.168.100.138 --------------------
+- c_manufacturer : KACO new energy
+- c_model : blueplanet 50.0 TL3 WM
+- c_version : V4.13
+- c_serialnumber : 50.0TL01645937
+- c_deviceaddress : 0
+--------------------- 192.168.100.118 --------------------
+--------------------- 192.168.100.134 --------------------
+--------------------- 192.168.100.111 --------------------
+--------------------- 192.168.100.106 --------------------
+--------------------- 192.168.100.158 --------------------
+--------------------- 192.168.100.170 --------------------
+--------------------- 192.168.100.178 --------------------
+--------------------- 192.168.100.187 --------------------
+--------------------- 192.168.100.160 --------------------
+--------------------- 192.168.100.142 --------------------
+--------------------- 192.168.100.141 --------------------
+--------------------- 192.168.100.166 --------------------
+--------------------- 192.168.100.183 --------------------
+--------------------- 192.168.100.122 --------------------
+--------------------- 192.168.100.130 --------------------
+--------------------- 192.168.100.145 --------------------
+--------------------- 192.168.100.131 --------------------
+--------------------- 192.168.100.173 --------------------
+--------------------- 192.168.100.171 --------------------
+--------------------- 192.168.100.144 --------------------
+--------------------- 192.168.100.184 --------------------
+--------------------- 192.168.100.181 --------------------
+--------------------- 192.168.100.147 --------------------
+--------------------- 192.168.100.156 --------------------
+--------------------- 192.168.100.107 --------------------
+--------------------- 192.168.100.139 --------------------
+--------------------- 192.168.100.112 --------------------
+--------------------- 192.168.100.176 --------------------
+--------------------- 192.168.100.185 --------------------
+--------------------- 192.168.100.146 --------------------
+--------------------- 192.168.100.177 --------------------
+--------------------- 192.168.100.108 --------------------
+--------------------- 192.168.100.148 --------------------
+--------------------- 192.168.100.164 --------------------
+--------------------- 192.168.100.137 --------------------
+--------------------- 192.168.100.189 --------------------
+--------------------- 192.168.100.175 --------------------
+--------------------- 192.168.100.188 --------------------
+--------------------- 192.168.100.167 --------------------
+--------------------- 192.168.100.180 --------------------
+--------------------- 192.168.100.129 --------------------
+--------------------- 192.168.100.157 --------------------
+--------------------- 192.168.100.127 --------------------
+--------------------- 192.168.100.128 --------------------
+--------------------- 192.168.100.126 --------------------
+--------------------- 192.168.100.172 --------------------
+--------------------- 192.168.100.149 --------------------
+--------------------- 192.168.100.124 --------------------
+--------------------- 192.168.100.169 --------------------
+--------------------- 192.168.100.125 --------------------
+��   �~�   ���   ���   P��   ���   0��   ��   ���   0��                           ���          
+
+😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+--------------------- 192.168.100.139 --------------------
+--------------------- 192.168.100.157 --------------------
+--------------------- 192.168.100.142 --------------------
+--------------------- 192.168.100.140 --------------------
+--------------------- 192.168.100.104 --------------------
+--------------------- 192.168.100.156 --------------------
+--------------------- 192.168.100.147 --------------------
+--------------------- 192.168.100.134 --------------------
+--------------------- 192.168.100.154 --------------------
+--------------------- 192.168.100.158 --------------------
+--------------------- 192.168.100.165 --------------------
+--------------------- 192.168.100.175 --------------------
+--------------------- 192.168.100.138 --------------------
+--------------------- 192.168.100.177 --------------------
+--------------------- 192.168.100.187 --------------------
+--------------------- 192.168.100.110 --------------------
+--------------------- 192.168.100.181 --------------------
+--------------------- 192.168.100.105 --------------------
+--------------------- 192.168.100.111 --------------------
+--------------------- 192.168.100.176 --------------------
+--------------------- 192.168.100.164 --------------------
+--------------------- 192.168.100.131 --------------------
+--------------------- 192.168.100.162 --------------------
+--------------------- 192.168.100.119 --------------------
+--------------------- 192.168.100.184 --------------------
+--------------------- 192.168.100.172 --------------------
+--------------------- 192.168.100.185 --------------------
+--------------------- 192.168.100.103 --------------------
+--------------------- 192.168.100.118 --------------------
+--------------------- 192.168.100.166 --------------------
+--------------------- 192.168.100.163 --------------------
+--------------------- 192.168.100.117 --------------------
+--------------------- 192.168.100.168 --------------------
+--------------------- 192.168.100.160 --------------------
+--------------------- 192.168.100.135 --------------------
+--------------------- 192.168.100.109 --------------------
+--------------------- 192.168.100.108 --------------------
+--------------------- 192.168.100.137 --------------------
+--------------------- 192.168.100.178 --------------------
+--------------------- 192.168.100.116 --------------------
+--------------------- 192.168.100.170 --------------------
+--------------------- 192.168.100.136 --------------------
+--------------------- 192.168.100.151 --------------------
+--------------------- 192.168.100.171 --------------------
+--------------------- 192.168.100.148 --------------------
+--------------------- 192.168.100.141 --------------------
+--------------------- 192.168.100.130 --------------------
+--------------------- 192.168.100.115 --------------------
+--------------------- 192.168.100.121 --------------------
+--------------------- 192.168.100.173 --------------------
+--------------------- 192.168.100.183 --------------------
+--------------------- 192.168.100.155 --------------------
+--------------------- 192.168.100.112 --------------------
+--------------------- 192.168.100.102 --------------------
+--------------------- 192.168.100.107 --------------------
+--------------------- 192.168.100.150 --------------------
+--------------------- 192.168.100.123 --------------------
+--------------------- 192.168.100.132 --------------------
+--------------------- 192.168.100.101 --------------------
+--------------------- 192.168.100.106 --------------------
+--------------------- 192.168.100.146 --------------------
+--------------------- 192.168.100.189 --------------------
+--------------------- 192.168.100.143 --------------------
+--------------------- 192.168.100.152 --------------------
+--------------------- 192.168.100.161 --------------------
+--------------------- 192.168.100.179 --------------------
+--------------------- 192.168.100.120 --------------------
+--------------------- 192.168.100.180 --------------------
+--------------------- 192.168.100.153 --------------------
+--------------------- 192.168.100.186 --------------------
+--------------------- 192.168.100.174 --------------------
+--------------------- 192.168.100.122 --------------------
+--------------------- 192.168.100.159 --------------------
+--------------------- 192.168.100.114 --------------------
+--------------------- 192.168.100.182 --------------------
+--------------------- 192.168.100.113 --------------------
+--------------------- 192.168.100.133 --------------------
+--------------------- 192.168.100.144 --------------------
+--------------------- 192.168.100.145 --------------------
+--------------------- 192.168.100.167 --------------------
+--------------------- 192.168.100.127 --------------------
+--------------------- 192.168.100.126 --------------------
+--------------------- 192.168.100.129 --------------------
+--------------------- 192.168.100.124 --------------------
+--------------------- 192.168.100.125 --------------------
+--------------------- 192.168.100.128 --------------------
+--------------------- 192.168.100.188 --------------------
+--------------------- 192.168.100.100 --------------------
+--------------------- 192.168.100.149 --------------------
+--------------------- 192.168.100.169 --------------------
+--------------------- 192.168.100.171 --------------------
+--------------------- 192.168.100.157 --------------------
+--------------------- 192.168.100.113 --------------------
+--------------------- 192.168.100.159 --------------------
+--------------------- 192.168.100.137 --------------------
+--------------------- 192.168.100.111 --------------------
+--------------------- 192.168.100.187 --------------------
+--------------------- 192.168.100.103 --------------------
+--------------------- 192.168.100.126 --------------------
+--------------------- 192.168.100.154 --------------------
+--------------------- 192.168.100.164 --------------------
+--------------------- 192.168.100.120 --------------------
+--------------------- 192.168.100.127 --------------------
+--------------------- 192.168.100.151 --------------------
+--------------------- 192.168.100.167 --------------------
+--------------------- 192.168.100.102 --------------------
+--------------------- 192.168.100.153 --------------------
+--------------------- 192.168.100.141 --------------------
+--------------------- 192.168.100.144 --------------------
+--------------------- 192.168.100.162 --------------------
+--------------------- 192.168.100.101 --------------------
+--------------------- 192.168.100.145 --------------------
+--------------------- 192.168.100.139 --------------------
+--------------------- 192.168.100.180 --------------------
+--------------------- 192.168.100.125 --------------------
+--------------------- 192.168.100.104 --------------------
+--------------------- 192.168.100.152 --------------------
+--------------------- 192.168.100.128 --------------------
+--------------------- 192.168.100.169 --------------------
+--------------------- 192.168.100.188 --------------------
+--------------------- 192.168.100.116 --------------------
+--------------------- 192.168.100.147 --------------------
+--------------------- 192.168.100.168 --------------------
+--------------------- 192.168.100.158 --------------------
+--------------------- 192.168.100.183 --------------------
+--------------------- 192.168.100.118 --------------------
+--------------------- 192.168.100.170 --------------------
+--------------------- 192.168.100.177 --------------------
+--------------------- 192.168.100.133 --------------------
+--------------------- 192.168.100.179 --------------------
+--------------------- 192.168.100.182 --------------------
+--------------------- 192.168.100.150 --------------------
+--------------------- 192.168.100.160 --------------------
+--------------------- 192.168.100.117 --------------------
+--------------------- 192.168.100.109 --------------------
+--------------------- 192.168.100.176 --------------------
+--------------------- 192.168.100.105 --------------------
+--------------------- 192.168.100.122 --------------------
+--------------------- 192.168.100.134 --------------------
+--------------------- 192.168.100.131 --------------------
+--------------------- 192.168.100.173 --------------------
+--------------------- 192.168.100.115 --------------------
+--------------------- 192.168.100.172 --------------------
+--------------------- 192.168.100.181 --------------------
+--------------------- 192.168.100.112 --------------------
+--------------------- 192.168.100.189 --------------------
+--------------------- 192.168.100.142 --------------------
+--------------------- 192.168.100.100 --------------------
+--------------------- 192.168.100.121 --------------------
+--------------------- 192.168.100.132 --------------------
+--------------------- 192.168.100.123 --------------------
+--------------------- 192.168.100.135 --------------------
+--------------------- 192.168.100.138 --------------------
+--------------------- 192.168.100.148 --------------------
+--------------------- 192.168.100.174 --------------------
+--------------------- 192.168.100.140 --------------------
+--------------------- 192.168.100.119 --------------------
+--------------------- 192.168.100.106 --------------------
+--------------------- 192.168.100.155 --------------------
+--------------------- 192.168.100.129 --------------------
+--------------------- 192.168.100.114 --------------------
+--------------------- 192.168.100.161 --------------------
+--------------------- 192.168.100.124 --------------------
+--------------------- 192.168.100.156 --------------------
+--------------------- 192.168.100.186 --------------------
+--------------------- 192.168.100.136 --------------------
+--------------------- 192.168.100.184 --------------------
+--------------------- 192.168.100.163 --------------------
+--------------------- 192.168.100.185 --------------------
+--------------------- 192.168.100.166 --------------------
+--------------------- 192.168.100.165 --------------------
+--------------------- 192.168.100.107 --------------------
+--------------------- 192.168.100.110 --------------------
+--------------------- 192.168.100.130 --------------------
+--------------------- 192.168.100.108 --------------------
+--------------------- 192.168.100.178 --------------------
+--------------------- 192.168.100.143 --------------------
+--------------------- 192.168.100.146 --------------------
+--------------------- 192.168.100.175 --------------------
+--------------------- 192.168.100.149 --------------------
+###########################################################
+--------------------- 192.168.100.23 --------------------
